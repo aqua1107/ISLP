@@ -52,8 +52,8 @@ $$Var(ε)$$
 
 ### Inference
 
-Find a relationship between $X_1$, ..., $X_p$ and $Y$.
+-Find a relationship between $X_1$, ..., $X_p$ and $Y$.
 
-Need to know its exact form!! But, depending on each individuals, 
+-Need to know its exact form!! But, depending on each individuals, 
 
 the paradigm(whether what variables are more important or not) and model(each combination of variables may vary) of inference changes.
