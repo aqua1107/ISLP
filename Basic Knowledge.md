@@ -32,7 +32,7 @@ The ultimate goal is to accurately predict  $Y$  with the estimated function  $\
 #### Before, we need to know the two kinds of error terms to understand the system of prediction.
 
 ##### Reducible error term: Possible to improve the prediction with a more accurate technique. (Therefore, reducing the error)
-##### Irreducible error term: Is a function of Y. (Therefore, cannot predict the error. Thus, not reducible)
+##### Irreducible error term: Is a function of $Y$. (Therefore, cannot predict the error. Thus, not reducible)
 
 ### Summary
 
