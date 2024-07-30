@@ -1,11 +1,25 @@
-This is the mini projects from ISLP.
+This is my mini projects from ISLP.
 
-Chapter 2 contains basic coding knowledge and a mini project.
+Chapter 2 : Basic Coding Knowledge and a Mini Project.
 
-Chapter 3 deals with Regression, especially on Linear Regression.
+Chapter 3 : Regression(Linear Regression).
 
-Chapter 4 is about Classification.
+Chapter 4 : Classification.
 
-This book in Chapter 5's topic is resampling methods.
+Chapter 5 : Resampling Methods.
 
-----To be Continued----
+Chapter 6 : Linear Model Selection and Regularization
+
+Chapter 7 : Moving Beyond Linearity
+
+Chapter 8 : Tree-Based Methods
+
+Chapter 9 : Support Vector Machines
+
+Chapter 10 : Deep Learning
+
+Chapter 11 : Survival Analysis and Censored Data
+
+Chapter 12 : Unsupervised Learning
+
+Chapter 13 : Multiple Testing
